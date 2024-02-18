@@ -1,7 +1,7 @@
 # MarathonUE5
 This is a personal project to test myself to recreate the original [Marathon](https://alephone.lhowon.org/) game (1994, Bungie) in Unreal Engine 5.3.2 (might update it if needed)
 
-## #Wanna give a hand?
+### Wanna give a hand?
 Although i would really appreciate help i am gonna try to do everything by myself. If you think you have something that might help contact me, i will be pleased to have a converation about it :) .
 
 ### Setting expectations

@@ -9,7 +9,7 @@ I know i cannot recreate the full game so i'll go on recreating aspects one by o
 Hardest part might be recreating everything in 3D, i have little to no experience in that but i'll try.
 
 ## Links
-- [Notion Publica Page](https://ebbro.notion.site/Marathon-UE5-1bf9c7e53c3c467a88db6662b8df2192)
+- [Notion Public Page](https://ebbro.notion.site/Marathon-UE5-Public-Page-e2d7517c607e429ebfd93483c6c9209f)
 - [Google Drive](https://drive.google.com/drive/folders/1WEWNGlHYbKDWqySQfUR3UPvvLHhSaC2o?usp=sharing)
 
 ### Info

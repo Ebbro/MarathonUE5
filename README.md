@@ -1,5 +1,5 @@
 # MarathonUE5
-This is a personal project to test myself to recreate the original [Marathon](https://alephone.lhowon.org/) game (1994, Bungie) in Unreal Engine 5.3+ (might update it if needed)
+This is a personal project to test myself to recreate the original [Marathon](https://alephone.lhowon.org/) game (1994, Bungie) and the trilogy as a whole in Unreal Engine 5.3+ (might update it if needed)
 
 ## What's the scope of the project
 My goal is to recreate the first Marathon as similar as possible while learning to use Unreal Engine. 
@@ -11,7 +11,7 @@ I will try to create a level editor for both version giving me the possibility o
 
 
 ## Links
-- [Notion Public Page](https://ebbro.notion.site/Marathon-UE5-Public-Page-e2d7517c607e429ebfd93483c6c9209f)
+- [Design and Tasks](https://ebbro.notion.site/Marathon-UE5-Public-Page-e2d7517c607e429ebfd93483c6c9209f)
 - [Google Drive](https://drive.google.com/drive/folders/1WEWNGlHYbKDWqySQfUR3UPvvLHhSaC2o?usp=sharing)
 
 ### Setting expectations

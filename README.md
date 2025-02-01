@@ -1,5 +1,5 @@
 # MarathonUE5
-This is a personal project to test myself to recreate the original [Marathon](https://alephone.lhowon.org/) game (1994, Bungie) and the trilogy as a whole in Unreal Engine 5.3+ (might update it if needed)
+This is a personal project to test myself to recreate the original [Marathon](https://alephone.lhowon.org/) game (1994, Bungie) and the trilogy as a whole in Unreal Engine 5.
 
 ## What's the scope of the project
 My goal is to recreate the first Marathon as similar as possible while learning to use Unreal Engine. 
